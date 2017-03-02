@@ -1,0 +1,296 @@
+Warn,  T7808: Found 300 degenerated primitives
+Skipping one or more lines with the same contents
+Error, T7808: FindInvalidDataProcess fails on mesh uvcoords: INF/NAN was found in a vector component
+Error, T7808: FindInvalidDataProcess fails on mesh normals: Found zero-length vector
+Error, T7808: FindInvalidDataProcess fails on mesh bitangents: All vectors are identical
+Info,  T7808: Registering custom importer for these file extensions: applelinuxmacwindows
+Info,  T7808: Unregistering custom importer: 
+Info,  T7808: Load $$$___magic___$$$.3ds
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is './'
+Info,  T7808: 3DS file format version: 3
+Warn,  T7808: 3DS: Skipping TCB animation info
+Skipping one or more lines with the same contents
+Error, T7808: 3DS: Skipping FOV animation track. This is not supported
+Warn,  T7808: 3DS: Skipping TCB animation info
+Skipping one or more lines with the same contents
+Info,  T7808: 3DS: Generating default material
+Debug, T7808: 3DS: Converting camera roll track ...
+Debug, T7808: ScenePreprocessor: Dummy scaling track has been generated
+Debug, T7808: ScenePreprocessor: Setting animation duration
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: SplitLargeMeshesProcess_Triangle begin
+Debug, T7808: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: CalcTangentsProcess begin
+Info,  T7808: CalcTangentsProcess finished. Tangents have been calculated
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (0) | Verts in: 36 out: 24 | ~33.3333%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 36 out: 24 | ~33.3%
+Debug, T7808: SplitLargeMeshesProcess_Vertex begin
+Debug, T7808: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+Debug, T7808: LimitBoneWeightsProcess begin
+Debug, T7808: LimitBoneWeightsProcess end
+Debug, T7808: ImproveCacheLocalityProcess begin
+Debug, T7808: Mesh 0 | ACMR in: 2.000000 out: 2.000000 | ~0.0%
+Info,  T7808: Cache relevant are 1 meshes (12 faces). Average output ACMR is 2.000000
+Debug, T7808: ImproveCacheLocalityProcess finished. 
+Info,  T7808: Leaving post processing pipeline
+Info,  T7808: Load ../../test/models/X/test.x
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is '../../test/models/X\'
+Warn,  T7808: Unknown data object in mesh in x file
+Debug, T7808: MakeLeftHandedProcess begin
+Debug, T7808: MakeLeftHandedProcess finished
+Debug, T7808: FlipWindingOrderProcess begin
+Debug, T7808: FlipWindingOrderProcess finished
+Debug, T7808: ValidateDataStructureProcess begin
+Debug, T7808: ValidateDataStructureProcess end
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: OptimizeGraphProcess begin
+Debug, T7808: OptimizeGraphProcess finished
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: Skipping OptimizeMeshesProcess
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 36 out: 24 | ~33.3333%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 36 out: 24 | ~33.3%
+Info,  T7808: Leaving post processing pipeline
+Info,  T7808: Load ../../test/models/X/Testwuson.x
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Debug, T7808: (Deleting previous scene)
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is '../../test/models/X\'
+Warn,  T7808: Unknown data object in animation of .x file
+Skipping one or more lines with the same contents
+Warn,  T7808: Unknown data object in frame in x file
+Skipping one or more lines with the same contents
+Debug, T7808: MakeLeftHandedProcess begin
+Debug, T7808: MakeLeftHandedProcess finished
+Debug, T7808: FlipWindingOrderProcess begin
+Debug, T7808: FlipWindingOrderProcess finished
+Debug, T7808: ValidateDataStructureProcess begin
+Debug, T7808: ValidateDataStructureProcess end
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: OptimizeGraphProcess begin
+Debug, T7808: OptimizeGraphProcess finished
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: Skipping OptimizeMeshesProcess
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 11196 out: 3205 | ~71.3737%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 11196 out: 3205 | ~71.4%
+Info,  T7808: Leaving post processing pipeline
+Info,  T7808: Load ../../test/models/X/anim_test.x
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Debug, T7808: (Deleting previous scene)
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is '../../test/models/X\'
+Warn,  T7808: Length of texture file name is zero. Skipping this texture.
+Warn,  T7808: Unknown data object in mesh in x file
+Debug, T7808: MakeLeftHandedProcess begin
+Debug, T7808: MakeLeftHandedProcess finished
+Debug, T7808: FlipWindingOrderProcess begin
+Debug, T7808: FlipWindingOrderProcess finished
+Debug, T7808: ValidateDataStructureProcess begin
+Debug, T7808: ValidateDataStructureProcess end
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: OptimizeGraphProcess begin
+Debug, T7808: OptimizeGraphProcess finished
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Warn,  T7808: Simplified dummy tracks with just one key
+Skipping one or more lines with the same contents
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: Skipping OptimizeMeshesProcess
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 2520 out: 485 | ~80.754%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 2520 out: 485 | ~80.8%
+Info,  T7808: Leaving post processing pipeline
+Info,  T7808: Load ../../test/models/X/anim_test.x
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Debug, T7808: (Deleting previous scene)
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is '../../test/models/X\'
+Warn,  T7808: Length of texture file name is zero. Skipping this texture.
+Warn,  T7808: Unknown data object in mesh in x file
+Debug, T7808: MakeLeftHandedProcess begin
+Debug, T7808: MakeLeftHandedProcess finished
+Debug, T7808: FlipWindingOrderProcess begin
+Debug, T7808: FlipWindingOrderProcess finished
+Debug, T7808: ValidateDataStructureProcess begin
+Debug, T7808: ValidateDataStructureProcess end
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: OptimizeGraphProcess begin
+Debug, T7808: OptimizeGraphProcess finished
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Warn,  T7808: Simplified dummy tracks with just one key
+Skipping one or more lines with the same contents
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: Skipping OptimizeMeshesProcess
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 2520 out: 485 | ~80.754%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 2520 out: 485 | ~80.8%
+Info,  T7808: Leaving post processing pipeline
+Info,  T7808: Load ../../test/models/X/bcn_epileptic.x
+Debug, T7808: Assimp 3.1.0 x86 msvc debug noboost shared singlethreaded
+Debug, T7808: (Deleting previous scene)
+Info,  T7808: Found a matching importer for this file format
+Info,  T7808: Import root directory is '../../test/models/X\'
+Warn,  T7808: Unknown data object in animation of .x file
+Skipping one or more lines with the same contents
+Warn,  T7808: Unknown data object in frame in x file
+Skipping one or more lines with the same contents
+Debug, T7808: MakeLeftHandedProcess begin
+Debug, T7808: MakeLeftHandedProcess finished
+Debug, T7808: FlipWindingOrderProcess begin
+Debug, T7808: FlipWindingOrderProcess finished
+Debug, T7808: ValidateDataStructureProcess begin
+Debug, T7808: ValidateDataStructureProcess end
+Info,  T7808: Entering post processing pipeline
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: RemoveRedundantMatsProcess finished 
+Debug, T7808: OptimizeGraphProcess begin
+Debug, T7808: OptimizeGraphProcess finished
+Debug, T7808: FindDegeneratesProcess begin
+Debug, T7808: FindDegeneratesProcess finished
+Debug, T7808: GenUVCoordsProcess begin
+Debug, T7808: GenUVCoordsProcess finished
+Debug, T7808: TriangulateProcess begin
+Debug, T7808: TriangulateProcess finished. There was nothing to be done.
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 0, Lines: 0, Triangles: 3, Polygons: 0 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Debug, T7808: FindInvalidDataProcess begin
+Debug, T7808: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T7808: OptimizeMeshesProcess begin
+Debug, T7808: OptimizeMeshesProcess finished
+Debug, T7808: Generate spatially-sorted vertex cache
+Debug, T7808: GenVertexNormalsProcess begin
+Debug, T7808: GenVertexNormalsProcess finished. Normals are already there
+Debug, T7808: JoinVerticesProcess begin
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 5898 out: 1170 | ~80.1628%
+Debug, T7808: Mesh 1 (unnamed) | Verts in: 6108 out: 1196 | ~80.4191%
+Debug, T7808: Mesh 2 (unnamed) | Verts in: 3372 out: 648 | ~80.7829%
+Info,  T7808: JoinVerticesProcess finished | Verts in: 15378 out: 3014 | ~80.4%
+Info,  T7808: Leaving post processing pipeline
+Debug, T7808: Mesh 0 (unnamed) | Verts in: 900 out: 300 | ~66.6667%
+Info,  T7808: Removed 5500 weights. Input bones: 30. Output bones: 8
+Debug, T7808: PretransformVerticesProcess begin
+Debug, T7808: PretransformVerticesProcess finished
+Info,  T7808: Removed 31 nodes and 0 animation channels (11 output nodes)
+Info,  T7808: Kept 0 lights and 0 cameras
+Info,  T7808: Moved 25 meshes to WCS (number of output meshes: 10)
+Debug, T7808: PretransformVerticesProcess begin
+Info,  T7808: PretransformVertices: Copying mesh due to mismatching transforms
+Skipping one or more lines with the same contents
+Debug, T7808: PretransformVerticesProcess finished
+Info,  T7808: Removed 31 nodes and 0 animation channels (31 output nodes)
+Info,  T7808: Kept 0 lights and 0 cameras
+Info,  T7808: Moved 25 meshes to WCS (number of output meshes: 49)
+Debug, T7808: RemoveVCProcess begin
+Debug, T7808: Setting AI_SCENE_FLAGS_INCOMPLETE flag
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveVCProcess begin
+Debug, T7808: Setting AI_SCENE_FLAGS_INCOMPLETE flag
+Info,  T7808: RemoveVCProcess finished. Data structure cleanup has been done.
+Debug, T7808: RemoveRedundantMatsProcess begin
+Info,  T7808: RemoveRedundantMatsProcess finished. Removed 2 redundant and 0 unused materials.
+Debug, T7808: RemoveRedundantMatsProcess begin
+Debug, T7808: Found positive match in exclusion list: 'Unique Mat2'
+Debug, T7808: Found positive match in exclusion list: 'Complex material name'
+Info,  T7808: RemoveRedundantMatsProcess finished. Removed 1 redundant and 0 unused materials.
+Debug, T7808: ScenePreprocessor: Dummy rotation track has been generated
+Debug, T7808: ScenePreprocessor: Dummy position track has been generated
+Debug, T7808: ScenePreprocessor: Setting animation duration
+Debug, T7808: ScenePreprocessor: Adding default material 'DefaultMaterial'
+Debug, T7808: SortByPTypeProcess begin
+Info,  T7808: Points: 5, Lines: 6, Triangles: 5, Polygons: 5 (Meshes, X = removed)
+Debug, T7808: SortByPTypeProcess finished
+Info,  T7808: Mesh exceeds the triangle limit. It will be split ...
